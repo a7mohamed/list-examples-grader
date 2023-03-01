@@ -18,4 +18,3 @@ fi
 cp ../TestListExamples.java ./
 javac -cp $CPATH *.java
 java TestListExamples
-run it now
